@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mambanishan
 - 👀 I’m interested in learning and Space Technologies and Unboxing thoughts
-- 🌱 I am a graduated Space Engineering and Business from uni.lu
+- 🌱 Graduated Space Engineering and Business from uni.lu
 - Currently working on validation of Radar data in IEE sensing company in Luxembourg.
 - 💞️ I’m looking to collaborate on AIT in Space Domain and Entreprenuership.
 - 📫 How to reach me mambanishan@gmail.com
